@@ -1,0 +1,28 @@
+body {
+  background-color: #adefd1ff
+}
+h1 {
+  color:  #23395d
+}
+h3 {
+  color:  #23395d
+}
+p {
+  color: #003366
+}
+hr{
+  border-style: none;
+  border-bottom: dotted;
+  border-width: 5px;
+  width: 10% ;
+  color: #23395d
+}
+ul {
+  color: #003366
+}
+ol {
+  color: #003366
+}
+label {
+  color: darkgreen
+}
